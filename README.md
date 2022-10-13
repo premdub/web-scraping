@@ -7,7 +7,9 @@
 
 4. Save each of the dataframes as separate .csv files into a "/data" folder within your repo - be sure to include the .csv files within your repo (make sure they are small, < 25mb) 
 
-4. Include a markdown file in the repo which includes instructions (e.g., what are the required python packages to run this, your approach for scrapping the data - the div/classes/css tags you found to extract the information)                                                                                                                  -  The required python packages to run are: $pip install beautifulsoup4                                                          
+5. Include a markdown file in the repo which includes instructions (e.g., what are the required python packages to run this, your approach for scrapping the data - the div/classes/css tags you found to extract the information)
+   
+     -  The required python packages to run are: $pip install beautifulsoup4                                                          
 
     - The approach for scrapping data is to discover Nationally Notifiable Infectious Diseases and Conditions, United States Tables from CDC website.  
         -Cumulative 2022 year-to-date counts for Hepatitis B, perinatal infection & Hepatitis C, acute 
